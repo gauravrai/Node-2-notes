@@ -1,4 +1,4 @@
-#Note taking app
+# Note taking app
 
 This application is built using Node js only
 
